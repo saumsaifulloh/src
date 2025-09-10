@@ -12,5 +12,7 @@ public class MenghitungTotalBayar18 {
 
         System.out.println("jumlah potongan harga adalah Rp. : " +potongan);
         System.out.println("jumlah yang harus anda bayar adalah Rp. " + jml_bayar);
+
+        sc.close();
     }
 }
